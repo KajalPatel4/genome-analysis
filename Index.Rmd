@@ -1,8 +1,9 @@
 ---
-title: "Index"
+title: "index"
 author: "Kajal Patel"
 date: "2/26/2020"
 output: html_document
+bibliography: data/references.bib
 ---
 This is my lab 5!
 [Lab5](Lab5_KajalPatel.html)
@@ -10,5 +11,4 @@ This is my lab 5!
 # REFERENCES
 [@RCoreTeam]
 
-
-small changes
+more changes
