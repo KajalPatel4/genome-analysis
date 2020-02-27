@@ -5,8 +5,10 @@ date: "2/26/2020"
 output: html_document
 bibliography: data/references.bib
 ---
-This is my lab 5!
+[Lab3](Lab3_KajalPatel.html)
+[Lab4](Lab4_KajalPatel.html)
 [Lab5](Lab5_KajalPatel.html)
+
 
 # REFERENCES
 [@RCoreTeam]
