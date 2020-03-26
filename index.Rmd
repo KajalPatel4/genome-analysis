@@ -8,7 +8,9 @@ bibliography: data/references.bib
 [Lab3](Lab3_KajalPatel.html)
 [Lab4](Lab4_KajalPatel.html)
 [Lab5](Lab5_KajalPatel.html)
+[Lab7](Lab7_KajalPatel.html)
 [Lab9](Lab9_KajalPatel.html)
+
 
 # REFERENCES
 [@RCoreTeam]
