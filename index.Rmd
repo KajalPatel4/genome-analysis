@@ -14,5 +14,3 @@ bibliography: data/references.bib
 
 # REFERENCES
 [@RCoreTeam]
-
-more changes
