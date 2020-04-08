@@ -10,7 +10,7 @@ bibliography: data/references.bib
 [Lab5](Lab5_KajalPatel.html)
 [Lab7](Lab7_KajalPatel.html)
 [Lab9](Lab9_KajalPatel.html)
-
+[Lab10](Lab10_KajalPatel.html)
 
 # REFERENCES
 [@RCoreTeam]
