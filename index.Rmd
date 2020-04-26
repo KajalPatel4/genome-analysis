@@ -11,6 +11,12 @@ bibliography: data/references.bib
 [Lab7](Lab7_KajalPatel.html)
 [Lab9](Lab9_KajalPatel.html)
 [Lab10](Lab10_KajalPatel.html)
+Lab11
+*[Lab11Ex1](https://covid-19reportingdata.shinyapps.io/Lab11Exercise1/)
+*[Lab11Ex2](https://covid-19reportingdata.shinyapps.io/Lab11Exercise2/)
+*[Lab11Ex3](https://covid-19reportingdata.shinyapps.io/Lab11Exercise3/)
+*[Lab11Ex4](https://covid-19reportingdata.shinyapps.io/Lab11Exercise4/)
+
 
 # REFERENCES
 [@RCoreTeam]
